@@ -1,0 +1,10 @@
+.state {
+  width: 80%;
+  height: 60%;
+  margin: 10% 10%;
+}
+.btnparty {
+  margin: 5px !important;
+  width: 50px !important;
+  height: 50px !important;
+}

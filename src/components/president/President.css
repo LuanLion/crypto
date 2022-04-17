@@ -1,0 +1,30 @@
+.container-president {
+  width: 80%;
+  height: 80%;
+  margin: 10%;
+  padding: 20px;
+  border: 1px solid red;
+  text-align: center;
+}
+
+.update-oclock {
+  width: 100%;
+  text-align: center;
+  display: block;
+}
+.president {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.name-vote {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+img {
+  width: 200px;
+  height: 150px;
+  margin: 10px;
+}
