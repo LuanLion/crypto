@@ -18,7 +18,7 @@ function CardView() {
           method: 'eth_requestAccounts'
         })
         setWeb3Api({
-      //  web: new Web3(provider),
+       web: new Web3(provider),
           provider: provider
         })
       } else {
